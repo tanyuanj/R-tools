@@ -53,3 +53,5 @@ roc.curve = function(glm.fit,data,outcome,returnValues=FALSE,returnPred=FALSE,re
 
   if (returnROC==TRUE) {return(curve)}
 }
+
+#ryan edited this
